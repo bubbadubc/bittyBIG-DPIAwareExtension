@@ -1,0 +1,11 @@
+<section if="windows && cppia">
+  <echo value="bittyBIG DPI Aware Manifest Extension: implemented by Leon from bittyBIG" />
+  <echo value="Special thanks to Nerdstan from the Stencyl Community!"/>
+  <echo value="DPI Manifest output: ${APP_TITLE}.exe.manifest" />
+
+  <assets
+    path="templates/windows/dpi.manifest"
+    rename="${APP_TITLE}.exe.manifest"
+    type="template"
+  />
+</section>

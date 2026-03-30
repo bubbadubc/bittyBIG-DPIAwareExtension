@@ -1,0 +1,6 @@
+name=bittyBIG DPI Aware (Windows)
+description=Automatically adds a DPI awareness manifest next to the Windows EXE for crisp 1:1 scaling. Special Thanks Nerdstan for the solution
+author=Leon from bittyBIG
+website=https://www.bittyBIGstudio.com/#contact
+version=1.0
+compatibility=all
